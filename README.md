@@ -1,5 +1,5 @@
-[![MasterHead]
-<h1 align="center">Hi 👋, I'm Vihanga Kulasekara</h1>
+
+<h1 align="center">Hello 👋, I'm Vihanga Kulasekara</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasekara02&label=Profile%20views&color=0e75b6&style=flat" alt="kulasekara02" /> </p>
 
