@@ -50,8 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
 
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/vihanga-dasun/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -72,9 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kulasekara02/kulasekara02/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kulasekara02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
@@ -83,11 +80,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kulasekara02" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <br clear="both">
 
