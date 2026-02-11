@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I am a **Software Engineer** with nearly **3 years** of hands-on experience in web development, API integration, and database management. Currently pursuing my **Master's in Computer Science** at the Transport and Telecommunication Institute in Riga, Latvia.
+ **Software Engineer** with nearly **3 years** of hands-on experience in web development, API integration, and database management. Currently pursuing my **Master's in Computer Science** at the Transport and Telecommunication Institute in Riga, Latvia.
 
 <br/>
 
